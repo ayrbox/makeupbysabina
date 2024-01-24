@@ -24,6 +24,8 @@ body #image-background {
   -webkit-transform:translateX(-50%) translateY(-50%);
   -ms-transform:translateX(-50%) translateY(-50%);
   transform:translateX(-50%) translateY(-50%);
+  background-size: cover;
+  background-position: center;
 }
 
 body #image-background::after {
