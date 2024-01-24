@@ -1,0 +1,5 @@
+baseURL = 'ayrbox.github.io/makeupbysabina/'
+languageCode = 'en-gb'
+title = 'Makeup by Sabina'
+
+theme = "makeup"
