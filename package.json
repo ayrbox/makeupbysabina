@@ -1,0 +1,21 @@
+{
+  "name": "makeupbysabina",
+  "version": "0.0.1",
+  "description": "Makeup portfolio",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ayrbox/makeupbysabina"
+  },
+  "keywords": [
+    "makeup",
+    "artist",
+    "beautician",
+    "beauty"
+  ],
+  "author": "ayrbox",
+  "license": "MIT"
+}
