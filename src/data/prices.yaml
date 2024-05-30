@@ -1,0 +1,104 @@
+- category: Threading
+  services:
+    - title: Eyebrows
+      price: 6
+    - title: Upper Lip
+      description: Including Lower Lip
+      price: 5
+    - title: Chin
+      price: 5
+    - title: Side Face
+      price: 10
+    - title: Fore Head
+      price: 5
+    - title: Neck
+      price: 8
+    - title: Full Face
+      description: Excluding Neck
+      price: 24
+- category: Eye Treatments
+  services:
+    - title: Eyebrows Tint
+      price: 8
+    - title: EyeLash Tint
+      price: 10
+    - title: Brows & Lashes Tint
+      price: 17
+    - title: Eyelash Lift, LVL
+      description: Including Tint
+      price: 40
+    - title: Brows Lamination
+      description: Including Shape & Tint
+      price: 40
+- category: Normal Wax
+  services:
+    - title: Eyebrows
+      price: 7
+    - title: Upper Lip
+      description: Including Lower Lip
+      price: 6
+    - title: Chin
+      price: 6
+    - title: Side face
+      price: 10
+    - title: Fore Head
+      price: 6
+    - title: Neck
+      price: 9
+    - title: Full Face
+      price: 28
+    - title: Half Arms
+      price: 13
+    - title: 3/4 Arms
+      price: 15
+    - title: Full Arm
+      price: 18
+    - title: Under Arm
+      price: 10
+    - title: Chest
+      price: 10
+    - title: Half Legs
+      price: 18
+    - title: 3/4 Legs
+      price: 23
+    - title: Full Legs
+      price: 28
+    - title: Stomach
+      price: 12
+    - title: Full Back
+      price: 23
+    - title: Buttocks
+      price: 12
+    - title: Full Body
+      price: 120
+- category: Hot Wax
+  services:
+    - title: Eyebrows
+      price: 10
+    - title: Upper Lip
+      description: Including Lower Lip
+      price: 7
+    - title: Chin
+      price: 7
+    - title: Side face
+      price: 12
+    - title: Neck
+      price: 10
+    - title: Full Face
+      description: Including Eyebrows
+      price: 35
+    - title: Under Arms
+      price: 12
+    - title: Nose Wax
+      price: 6
+    - title: Stomach
+      price: 15
+    - title: Bikini Line
+      price: 16
+    - title: Extended Bikini
+      price: 22
+    - title: Brazilian
+      price: 30
+    - title: Hollywood
+      price: 30
+

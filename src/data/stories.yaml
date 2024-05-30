@@ -1,0 +1,144 @@
+- name: Wedding Photoshoot
+  category: Wedding
+  thumbnail: ./images/insta-0001.jpg
+  url: https://www.instagram.com/p/CNhik60j7wr/
+
+- name: Twinning
+  category: Wedding
+  thumbnail: ./images/insta-0002.jpg
+  url: https://www.instagram.com/p/CNhiq4mjXwf/
+
+- name: Reception 
+  category: Wedding 
+  thumbnail: ./images/insta-0003.jpg
+  url: https://www.instagram.com/p/CNhis3LD8XU/
+
+- name: The Smile
+  category: Wedding 
+  thumbnail: ./images/insta-0004.jpg
+  url: https://www.instagram.com/p/CNhiw7Mj3Sb/ 
+
+- name: Sari 
+  category: Photoshoot 
+  thumbnail: ./images/insta-0005.jpg
+  url: https://www.instagram.com/p/CNhi6RUj48D/
+
+- name: Flower on Hair 
+  category: Photoshoot 
+  thumbnail: ./images/insta-0006.jpg
+  url: https://www.instagram.com/p/CNhi-m_jbMj/
+
+- name: Wedding Photoshoot 
+  category: Wedding 
+  thumbnail: ./images/insta-0007.jpg
+  url: https://www.instagram.com/p/CNhjBgcj2KF/
+
+- name: Wedding Photoshoot
+  category: Wedding 
+  thumbnail: ./images/insta-0008.jpg
+  url: https://www.instagram.com/p/CNhjEZ5jsAO/
+
+- name: Reception 
+  category: Wedding 
+  thumbnail: ./images/insta-0009.jpg
+  url: https://www.instagram.com/p/CNhjG2_jzZq/
+
+- name: The Dress 
+  category: Wedding 
+  thumbnail: ./images/insta-0010.jpg
+  url: https://www.instagram.com/p/CNhjIz0DAaY/
+
+- name: Makeup
+  category: Wedding
+  thumbnail: ./images/insta-0011.jpg
+  url: https://www.instagram.com/p/CNhjZpJDrZv/
+
+- name: Wedding Reception 
+  category: Wedding 
+  thumbnail: ./images/insta-0012.jpg
+  url: https://www.instagram.com/p/CNhjeM8jPxh/
+
+- name: Traditional
+  category: Makeup
+  thumbnail: ./images/insta-0013.jpg
+  url: https://www.instagram.com/p/CNhkYFIDQsB/
+
+- name: Photoshoot 
+  category: Wedding 
+  thumbnail: ./images/insta-0014.jpg
+  url: https://www.instagram.com/p/CNhkZ8CjqX8/
+
+- name: Sari 
+  category: Wedding 
+  thumbnail: ./images/insta-0015.jpg
+  url: https://www.instagram.com/p/CNhkbaODItY/
+
+- name: Modelling 
+  category: Photoshoot 
+  thumbnail: ./images/insta-0016.jpg
+  url: https://www.instagram.com/p/CNhkdzsDywZ/
+
+- name: Magzine
+  category: Photoshoot 
+  thumbnail: ./images/insta-0017.jpg
+  url: https://www.instagram.com/p/CNhkf5kjN-U/
+
+- name: Eyelashes uplift
+  category: Before & After 
+  thumbnail: ./images/insta-0018.jpg
+  url: https://www.instagram.com/p/C0M8wxaqu7F/
+
+- name: Dark Circle Treatment 
+  category: Regular Care 
+  thumbnail: ./images/insta-0019.jpg
+  url: https://www.instagram.com/p/C0aALLKKq5P/
+
+- name: Threading 
+  category: Regular Care 
+  thumbnail: ./images/insta-0020.jpg
+  url: https://www.instagram.com/p/C0bUYffKOqs/
+
+- name: Traditional 
+  category: Wedding 
+  thumbnail: ./images/insta-0021.jpg
+  url: https://www.instagram.com/p/C0r_1j2Kcfz/
+
+- name: Engagement 
+  category: Wedding 
+  thumbnail: ./images/insta-0022.jpg
+  url: https://www.instagram.com/p/C0uagvbKTWA/
+
+- name: Threading 
+  category: Regular Care 
+  thumbnail: ./images/insta-0023.jpg
+  url: https://www.instagram.com/p/C19asNSqXXn/
+
+- name: Haircut 
+  category: Regular Care 
+  thumbnail: ./images/insta-0024.jpg
+  url: https://www.instagram.com/p/C2huyeVqyO-/
+
+- name: Eyebrow Waxing 
+  category: Regular Care 
+  thumbnail: ./images/insta-0025.jpg
+  url: https://www.instagram.com/p/C2sBJSnqXYd/
+
+- name: Threading 
+  category: Regular Care 
+  thumbnail: ./images/insta-0026.jpg
+  url: https://www.instagram.com/p/C2zkx5Tq60M/
+
+- name: Before & After 
+  category: Regular Care 
+  thumbnail: ./images/insta-0027.jpg
+  url: https://www.instagram.com/p/C27ie4Uqqk8/
+
+- name: Waxing 
+  category: Regular Care 
+  thumbnail: ./images/insta-0028.jpg
+  url: https://www.instagram.com/p/C3Ahev7KvYC/
+
+- name: Mehendi
+  category: Wedding
+  thumbnail: ./images/insta-0029.jpg
+  url: https://www.instagram.com/p/CNhi1YaD76B/
