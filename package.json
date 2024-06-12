@@ -1,0 +1,49 @@
+{
+  "name": "makeupbysabina",
+  "version": "0.0.1",
+  "description": "Makeup portfolio",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ayrbox/makeupbysabina"
+  },
+  "keywords": [
+    "makeup",
+    "artist",
+    "beautician",
+    "beauty"
+  ],
+  "author": "ayrbox",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^5.13.6",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-react-helmet": "^6.13.1",
+    "gatsby-plugin-react-svg": "^3.3.0",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-plugin-sitemap": "^6.13.1",
+    "gatsby-plugin-styled-components": "^6.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
+    "gatsby-transformer-yaml": "^5.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/styled-components": "^5.1.34",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.4.5"
+  }
+}
