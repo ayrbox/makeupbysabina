@@ -27,7 +27,7 @@ export default function Features({ complete }: FeaturesProps) {
       description: "Certified UK Based Makeup Artist",
     },
     {
-      image: <HairStyleIcon />,
+      image: <BrideIcon />,
       title: "Bridal",
       description: "I got expertise in bridal makeup and hair.",
     },
